@@ -1,0 +1,15 @@
+.settings/
+*.log
+plugin.xml
+*.zip
+*.un~
+.DS_Store
+target
+web-app
+
+*.iml
+*.ipr
+*.iws
+build
+.idea
+node_modules
